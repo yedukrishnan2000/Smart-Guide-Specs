@@ -1,0 +1,13 @@
+opencv-python
+mediapipe
+ultralytics
+torch
+numpy
+firebase-admin
+
+
+###############################
+
+# python 3.10.0
+# run pip install -r requirements.txt
+# run test.py
